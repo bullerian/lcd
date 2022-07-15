@@ -1,0 +1,12 @@
+../Core/Src/nmea.c:76:5:parse_nmea	32	static
+../Core/Src/nmea.c:98:12:handle_rmc	16	static
+../Core/Src/nmea.c:130:12:handle_gga	16	static
+../Core/Src/nmea.c:147:12:handle_gsv	16	static
+../Core/Src/nmea.c:155:12:crc_check	32	static
+../Core/Src/nmea.c:179:13:float_to_ints	32	static
+../Core/Src/nmea.c:186:12:get_range	32	static
+../Core/Src/nmea.c:205:12:copy_value_to_buffer	24	static
+../Core/Src/nmea.c:221:14:parse_utc	24	static
+../Core/Src/nmea.c:254:14:parse_coord	32	static
+../Core/Src/nmea.c:285:13:parse_speed	24	static
+../Core/Src/nmea.c:292:13:parse_date	24	static

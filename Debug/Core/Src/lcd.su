@@ -1,0 +1,8 @@
+../Core/Src/lcd.c:27:6:lcd_printf	104	static
+../Core/Src/lcd.c:39:5:lcd_print	24	static
+../Core/Src/lcd.c:96:6:pulseEnable	8	static
+../Core/Src/lcd.c:104:6:send_data	16	static
+../Core/Src/lcd.c:112:6:send_cmd	16	static
+../Core/Src/lcd.c:120:6:set_cursor	16	static
+../Core/Src/lcd.c:125:6:lcd_clear	8	static
+../Core/Src/lcd.c:130:6:init	8	static
